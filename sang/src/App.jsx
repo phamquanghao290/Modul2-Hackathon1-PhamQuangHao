@@ -1,5 +1,5 @@
-import React, {useState}from 'react'
-import Word from './components/Word'
+import React, {useState}from 'react';
+import Word from './components/Word';
 import Letter from './components/Letter';
 import Paragraph from './components/Paragraph';
 import './App.css'
